@@ -1,0 +1,7 @@
+{
+  "name": "bookish-octo-computing-machine",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
